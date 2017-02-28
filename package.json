@@ -2,14 +2,14 @@
   "name": "landlord-couchbase",
   "longName": "Landlord Couchbase Store",
   "description": "A Couchbase store for landlord.",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "dependencies": {
     "elv": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "couchbase-promises": "^3.0.1",
+    "couchbase-promises": "^4.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0"
   },
